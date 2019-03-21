@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays;;
 
 public class HWTask2 {
     public int[] getPartOfArray(int[] arr) throws RuntimeException {
